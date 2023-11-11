@@ -2,7 +2,7 @@
 import axios from "axios";
 import { useState } from "react"
 import 'bootstrap/dist/css/bootstrap.css'
-import "./app.css"
+import "./App.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faXmark } from '@fortawesome/free-solid-svg-icons';
 import { faPenToSquare } from '@fortawesome/free-solid-svg-icons';
